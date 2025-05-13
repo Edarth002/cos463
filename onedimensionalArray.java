@@ -7,7 +7,7 @@ public class onedimensionalArray {
 	myArray = new double[size];
 
 	readData();
-	displayData();
+	displayData(); 
 
 
 }
